@@ -18,3 +18,8 @@ Repositório para exemplos do curso de Java básico pela Dio
 - Operadores relacionais 
 - Operadores lígicos
 - Operador ternário
+- 
+### Métodos
+
+- Tipos
+- Visibilidade
